@@ -1,4 +1,4 @@
-//program for odd and even number
+// c program for odd and even number
 
 #include<stdio.h>
 int main()
